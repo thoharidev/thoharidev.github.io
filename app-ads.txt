@@ -121,3 +121,5 @@ xandr.com, 15840, RESELLER
 xandr.com, 7353, RESELLER
 xapads.com, 117219, RESELLER
 zmaticoo.com, 5135704, RESELLER
+yeahmobi.com, 5135195, RESELLER
+zmaticoo.com, 5135195, RESELLER

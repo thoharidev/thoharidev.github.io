@@ -124,3 +124,6 @@ zmaticoo.com, 5135704, RESELLER
 yeahmobi.com, 5135195, RESELLER
 zmaticoo.com, 5135195, RESELLER
 mars.media, 1010442, RESELLER, 8624339f102fb076
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 1058378980, RESELLER
+connekt.ai, 1732945743, RESELLER
